@@ -8,7 +8,7 @@ This is the official repository for the Udemy Course developed by Electronics Te
 * Tools, Parts and Softwares you'll require
 
 ## 1. Introduction to Electronics
-* What is electronics
+* What is electronics?
 * Basic concepts (resistors etc)
 * Breadboard explanation
 * Digital vs Analog signals
@@ -39,7 +39,8 @@ This is the official repository for the Udemy Course developed by Electronics Te
 * Interrupts theory
 * Interrupts example
 * TCP UDP Protocols
-* 5. Introduction to IoT concepts
+
+## 5. Introduction to IoT concepts
 * Internet Architecture
 * Client-Server, Request Response
 * OSI Model and Layers
